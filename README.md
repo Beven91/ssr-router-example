@@ -1,9 +1,13 @@
-# game-2048
+# ssr-router-example
 
 
 ### 一、 简介
 
-本用例游戏代码部分来源于[react-native-2048](https://github.com/liuhong1happy/react-native-2048)
+react-native for web 三端路由示例
+
+[`react-navigation`](/src/router/react-navigation)
+
+[`react-router`](/src/router/react-router)
 
 ### 二、 使用
 
