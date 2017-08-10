@@ -5,9 +5,10 @@
 
 react-native for web 三端路由示例
 
-[`react-navigation`](/src/router/react-navigation)
+- [`react-navigation`](/src/router/react-navigation)
 
-[`react-router`](/src/router/react-router)
+- [`react-router`](/src/router/react-router)
+
 
 ### 二、 使用
 
