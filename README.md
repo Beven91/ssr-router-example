@@ -9,6 +9,7 @@ react-native for web 三端路由示例
 
 - [`react-router`](/src/router/react-router)
 
+- [`code spliter`](/web/.packager.js)
 
 ### 二、 使用
 
